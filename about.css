@@ -1,0 +1,86 @@
+/* About_컨텐트 내용 */
+
+/* About */
+#list01 {
+    width: inherit;
+    height: 400px;
+    /* position: absolute;
+    top: 100px; */
+    background-color: rgb(214, 228, 223);
+    margin: 100px 0 20px;
+}
+#list01 #left {
+    width: 50%;
+    float: left;
+}
+#list01 #left h2 {
+    color: #405357;
+    width: 90px;
+    font-size: 36px;
+    padding: 50px 30px 0;
+    display: inline-block;
+}
+#list01 #left span {
+    margin: 10px;
+    color: #405357;
+    font-weight: bold;
+}
+#list01 #left p {
+    padding: 35px 30px 0;
+}
+
+#list01 #right {
+    width: 45%;
+    height: 300px;
+    float: right;
+    margin: 60px 30px 0 0;
+    background: url(img/img04.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+
+/* FAQ */
+#list02 {
+    width: inherit;
+    height: 650px;
+    /* position: absolute;
+    top: 530px; */
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+#list02 #left {
+    width: 48%;
+    float: left;
+}
+#list02 h2 {
+    color: #405357;
+    width: 40px;
+    font-size: 36px;
+    padding: 50px 30px 0;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+#list02 #left span {
+    margin: 10px;
+    color: #405357;
+    font-weight: bold;
+}
+#list02 .title {
+    font-weight: bold;
+}
+
+#list02 #left {
+    width: 49.5%;
+    float: left;
+}
+
+#list02 .layout {
+    padding: 35px 30px 0;
+}
+
+#list02 #right {
+    width: 49.5%;
+    float: right;
+    padding-top: 107px;
+}

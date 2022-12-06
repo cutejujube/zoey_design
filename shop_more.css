@@ -1,0 +1,148 @@
+/* 제품상세_Shop more */
+
+#quick {
+    width: inherit;
+    height: 50px;
+    margin-top: 120px;
+    color: #777;
+    font-size: 14px;
+    line-height: 50px;
+}
+#quick p {
+    float: left;
+    padding: 0 20px;
+}
+#quick p:nth-child(2) {
+    float: right;
+}
+
+#quick img {
+    width: 12px;
+}
+
+#left {
+    width: 480px;
+    float: left;
+    margin-bottom: 50px;
+}
+#layout1 {
+    width: 440px;
+    height: 400px;
+    background: url(img/img05.webp) no-repeat;
+    background-size: cover;
+    margin: 30px 20px 20px;
+    border: 1px solid rgb(227, 227, 227);
+}
+
+#layout2 div {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    float: left;
+}
+#layout2 div:nth-child(1) {
+    margin: 0 0px 50px 20px;
+    border: 1px solid #405357;
+}
+
+#img1 {
+    background: url(img/img05.webp) no-repeat;
+    background-size: cover;
+}
+#img2 {
+    background: url(img/img05-1.jpg) no-repeat;
+    background-size: cover;
+}
+#img3 {
+    background: url(img/img05-2.jpg) no-repeat;
+    background-size: cover;
+}
+
+#layout3 {
+    clear: both;
+    height: 100px;
+    margin-left: 30px;
+}
+
+#right {
+    width: 400px;
+    height: 800px;
+    float: right;
+    background: #fff;
+    margin-bottom: 50px;
+    border-radius: 20px 0 0;
+}
+
+#right h3 {
+    margin: 50px 0 0 34px;
+    font-size: 28px;
+    color: #405357 ;
+    margin-bottom: 5px;
+}
+
+.name {
+    font-size: 14px;
+    color: #777;
+    margin: 0 0 0px 34px;
+}
+
+.price {
+    font-weight: medium;
+    font-size: 20px;
+    margin: 0 0 30px 34px;
+}
+
+#right p {
+    margin-left: 34px;
+}
+
+#right input {
+    margin: 5px 0 20px 34px;
+    width: 45px;
+    height: 20px;
+    padding: 5px 0 5px 10px;
+    border: 1px solid #ccc;
+}
+#right button {
+    display: block;
+    margin: 10px auto 100px;
+    width: 330px;
+    height: 40px;
+    border: 1px solid #405357;
+    background-color: #405357;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#right button:hover {
+    background-color: #fff;
+    color: #405357;
+}
+
+#layout5 {
+    margin: 30px 0;
+    height: 200px;
+}
+
+.title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#layout5 p {
+    width: 328px;
+}
+
+#layout6 p {
+    width: 328px;
+}
+
+#sns {
+    margin: 50px 0 30px 34px;
+}
+#sns img {
+    width: 20px;
+    margin-right: 10px;
+}

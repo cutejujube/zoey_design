@@ -1,0 +1,77 @@
+/* 공지사항_Notice */
+
+
+
+#list01 {
+    width: inherit;
+    height: 550px;
+    margin: 100px 0 20px;
+    background-color: #fff;
+}
+#list01 #left {
+    width: 50%;
+    float: left;
+}
+#list01 #left h2 {
+    color: #405357;
+    width: 90px;
+    font-size: 36px;
+    padding: 50px 30px 30px;
+    display: inline-block;
+}
+#list01 #left span {
+    margin: 25px;
+    color: #405357;
+    font-weight: bold;
+}
+#list01 #left .text {
+    padding: 35px 30px 100px;
+}
+
+.title {
+    font-weight: bold;
+    margin: 10px 0 0 30px;
+    width: 200px;
+}
+
+#list01 #right {
+    width: 40%;
+    float: right;
+    padding-right: 30px;
+    margin-top: 150px;
+}
+
+#right input {
+    width: 100%;
+    height: 25px;
+    margin: 2px;
+    border: 1px solid #405357;
+    padding: 5px;
+}
+
+#right textarea {
+    width: 100%;
+    height: 150px;
+    margin: 2px;
+    border: 1px solid #405357;
+    padding: 10px 5px;
+    resize: none;
+}
+
+#right button {
+    float: right;
+    margin: 10px -12px 50px 0;
+    width: 90px;
+    height: 45px;
+    border: 1px solid #405357;
+    background-color: #405357;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#right button:hover {
+    background-color: #fff;
+    color: #405357;
+}

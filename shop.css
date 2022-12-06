@@ -1,0 +1,143 @@
+/* Shop_컨텐트 내용 */
+
+.title h2 {
+    color: #405357;
+    width: 100px;
+    font-size: 36px;
+    padding: 50px 30px 0;
+    display: inline-block;
+}
+.title span {
+    margin: 10px;
+    color: #405357;
+    font-weight: bold;
+}
+
+#list01, #list02 {
+    width: inherit;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    margin: 100px 0 20px;
+}
+article {
+    /* border: 1px solid blue; */
+    margin: 0 auto;
+    padding: 20px;
+}
+.box {
+    width: 192px;
+    float: left;
+    margin: 10px;
+}
+.item {
+    height: 190px;
+    margin-bottom: 10px;
+}
+
+
+#img01 {
+    background: url(img/img03.webp) no-repeat 0px -60px;
+    background-size: cover;
+}
+#img02 {
+    background: url(img/img02.jpg) no-repeat 0px 0px;
+    background-size: cover;
+}
+#img03 {
+    background: url(img/img05.webp) no-repeat;
+    background-size: cover;
+}
+#img03:hover {
+    background: url(img/img05_hover.jpg) no-repeat;
+    background-size: cover;
+}
+.green {
+    color:#16687b;
+    font-weight: bold;
+}
+
+#img04 {
+    background: url(img/img08.webp) no-repeat;
+    background-size: cover;
+}
+#img05 {
+    background: url(img/kitchen1.png) no-repeat 0 -60px;
+    background-size: cover;
+}
+#img06 {
+    background: url(img/kitchen2.jpeg) no-repeat 0 -90px;
+    background-size: cover;
+}
+#img07 {
+    background: url(img/kitchen3.jpg) no-repeat 0 -80px;
+    background-size: cover;
+}
+#img08 {
+    background: url(img/kitchen4.jpg) no-repeat 0 -60px;
+    background-size: cover;
+}
+
+.more {
+    width: 840px;
+    margin: 50px 30px;
+    padding: 18px;
+    border: 1px solid #405357;
+    background-color: rgb(255, 255, 255);
+    color: #405357;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.more:hover {
+    background-color: #405357;
+    color: #fff;
+}
+
+#list02 {
+    margin: 30px 0 20px;
+}
+
+#list02 .title span {
+    margin: 35px;
+    color: #405357;
+    font-weight: bold;
+}
+.price {
+    font-size: 14px;
+    color: #777;
+}
+
+#img11 {
+    background: url(img/img07.webp) no-repeat 0px 0px;
+    background-size: cover;
+}
+#img12 {
+    background: url(img/img12.webp) no-repeat 0px 0px;
+    background-size: cover;
+}
+#img13 {
+    background: url(img/img13.webp) no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+#img14 {
+    background: url(img/img10.webp)no-repeat 0 -150px;
+    background-size: cover;
+}
+#img15 {
+    background: url(img/bedroom1.png) no-repeat 0 -60px;
+    background-size: cover;
+}
+#img16 {
+    background: url(img/bedroom2.jpg) no-repeat 0 -90px;
+    background-size: cover;
+}
+#img17 {
+    background: url(img/bedroom3.jpg) no-repeat 0 -50px;
+    background-size: cover;
+}
+#img18 {
+    background: url(img/bedroom4.jpg) no-repeat 0 -60px;
+    background-size: cover;
+}
